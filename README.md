@@ -24,7 +24,7 @@ ________________________________________
 ________________________________________
 ## 📊 Key Metrics
 
-The following metrics were computed and evaluated by device, channel, and region.
+The following metrics were computed to evaluate campaign performance by device, channel, and region.
 - CTR (Click-Through Rate)
 - Conversion Rate
 - CPC (Cost per Click)
