@@ -23,12 +23,14 @@ ________________________________________
   - Aggregation
 ________________________________________
 ## 📊 Key Metrics
+
+The following metrics were computed and evaluated by device, channel, and region.
 - CTR (Click-Through Rate)
 - Conversion Rate
 - CPC (Cost per Click)
 - CPA (Cost per Acquisition)
 - ROAS (Return on Ad Spend)
-The metrics were computed and evaluated by device, channel, and region.
+
 ________________________________________
 ## 🔍 Key Insights
 - Identified top-performing channels by ROAS
